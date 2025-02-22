@@ -8,7 +8,7 @@
 
 ### 🌟 **GitHub Stats**
 <div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katyazyubareva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&icon_color=f7768e&text_color=c0caf5" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=katyazubareva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7dcfff&icon_color=f7768e&text_color=c0caf5" /> 
   <img height="180em" src="https://streak-stats.demolab.com?user=KatyaZubareva&theme=tokyonight&hide_border=true&border_radius=8" /> 
 </div>
 
