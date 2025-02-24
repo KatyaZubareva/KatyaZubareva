@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Katya! 🚀</h1>
+<h1 align="center">Hey, I'm Katya! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=facd60&lines=Passionate%20about%20creating%20cool%20experiences;Always%20learning%20and%20exploring!&center=true&width=550&height=50">
@@ -14,14 +14,14 @@
 
 ---
 
-### 🎨 **My Tech Stack**
+### 🎮 **My Tech Stack**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,java,cpp,python,js,html,css,react,figma,flutter,git" />
 </p>
 
 ---
 
-### 📬 **Let's Connect**
+### 💌 **Let's Connect**
 <p align="center">
   <a href="https://www.behance.net/katyazubareva"><img src="https://img.shields.io/badge/-Behance-0057ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
   <a href="https://github.com/KatyaZubareva"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
