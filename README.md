@@ -16,7 +16,7 @@
 
 ### 🎮 **My Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,java,spring,python,js,html,css,react,figma,git,docker,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,java,spring,python,js,html,css,react,git,docker,mysql,postgresql" />
 </p>
 
 ---
