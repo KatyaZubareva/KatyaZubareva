@@ -8,7 +8,7 @@ Building intelligent products, interactive systems and technology-driven experie
 
 <br>
 
-<a href="https://katyazubareva.github.io/">
+<a href="https://katyazubareva.github.io/portfolio">
   <img src="https://img.shields.io/badge/PORTFOLIO-FF4B16?style=for-the-badge&logoColor=white" />
 </a>
 &nbsp;
