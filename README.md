@@ -134,8 +134,6 @@ MediaPipe · Real-time Tracking · Interactive Systems
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KatyaZubareva&show_icons=true&hide_border=true&bg_color=F4F3EF&title_color=111111&icon_color=FF4B16&text_color=555555" />
-
 <img height="170" src="https://streak-stats.demolab.com?user=KatyaZubareva&hide_border=true&background=F4F3EF&ring=FF4B16&fire=FF4B16&currStreakLabel=111111&sideLabels=555555&dates=777777" />
 
 </div>
